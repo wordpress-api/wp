@@ -1,4 +1,3 @@
-
 [
   {
     "title": "USA",
@@ -6,11 +5,19 @@
     "submenu": "",
     "tabs": [
       {
-        "title": "Community",
-        "provider": "wordpress",
+        "title": "Rollos Fáciles",
+        "provider": "webview",
         "arguments": [
-          "",
+          "https://app.oyanis.com/R-F_ES1.php",
           "deals"
+        ]
+      },
+      {
+        "title": "Ligar",
+        "provider": "webview",
+        "arguments": [
+          "https://app.oyanis.com/R-F_ES2.php",
+          "usa_new"
         ]
       }
   
@@ -23,7 +30,7 @@
     "submenu": "",
     "tabs": [
       {
-        "title": "Top Films",
+        "title": "Top Films and series",
         "image": "",
         "provider": "wordpress",
         "arguments": [
