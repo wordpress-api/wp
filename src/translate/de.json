@@ -8,7 +8,7 @@
         "title": "Flirt",
         "provider": "webview",
         "arguments": [
-          "https://mejorcita.es/go/c-date-de",
+          "https://app.oyanis.com/S-T_DE1.php",
           "deals"
         ]
       },
