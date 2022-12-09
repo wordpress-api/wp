@@ -1,4 +1,3 @@
-
 [
   {
     "title": "USA",
@@ -6,11 +5,19 @@
     "submenu": "",
     "tabs": [
       {
-        "title": "Community",
-        "provider": "wordpress",
+        "title": "Flirt",
+        "provider": "webview",
         "arguments": [
-          "",
+          "https://mejorcita.es/go/c-date-de",
           "deals"
+        ]
+      },
+      {
+        "title": "One-Night-Stand",
+        "provider": "webview",
+        "arguments": [
+          "https://mejorcita.es/40D-de",
+          "usa_new"
         ]
       }
   
@@ -23,7 +30,7 @@
     "submenu": "",
     "tabs": [
       {
-        "title": "Top Films",
+        "title": "Top Films and series",
         "image": "",
         "provider": "wordpress",
         "arguments": [
