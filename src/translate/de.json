@@ -5,19 +5,19 @@
     "submenu": "",
     "tabs": [
       {
-        "title": "Flirt",
-        "provider": "webview",
-        "arguments": [
-          "https://app.oyanis.com/S-T_DE1.php",
-          "deals"
-        ]
-      },
-      {
         "title": "One-Night-Stand",
         "provider": "webview",
         "arguments": [
           "https://app.oyanis.com/S-T_DE2.php",
           "usa_new"
+        ]
+      },
+      {
+        "title": "Flirt",
+        "provider": "webview",
+        "arguments": [
+          "https://app.oyanis.com/S-T_DE1.php",
+          "deals"
         ]
       }
   
