@@ -11,8 +11,49 @@
           "https://app.oyanis.com/R-F_ES3.php",
           "deals"
         ]
+      },
+      {
+        "title": "",
+        "provider": "wordpress",
+        "arguments": [
+          "",
+          "deals"
+        ]
       }
   
+    ],
+    "iap": false
+  },
+  {
+    "title": "Other Countries",
+    "drawable": "",
+    "submenu": "",
+    "tabs": [
+      {
+        "title": "Top Films and series",
+        "image": "",
+        "provider": "wordpress",
+        "arguments": [
+          "",
+          "deals"
+        ]
+      }
+    ],
+    "iap": false
+  },
+  {
+    "title": "Settings",
+    "drawable": "",
+    "submenu": "Other",
+    "tabs": [
+      {
+        "title": "",
+        "provider": "custom",
+        "arguments": [
+          "",
+          "fragment"
+        ]
+      }
     ],
     "iap": false
   }
