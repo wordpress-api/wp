@@ -8,18 +8,18 @@
         "title": "Rollos Fáciles",
         "provider": "webview",
         "arguments": [
-          "https://app.oyanis.com/R-F_ES2.php",
+          "https://app.oyanis.com/R-F_ES3.php",
           "deals"
         ]
       },
-      {
-        "title": "Ligar",
-        "provider": "webview",
-        "arguments": [
-          "https://app.oyanis.com/R-F_ES1.php",
-          "usa_new"
-        ]
-      }
+      //{
+      //  "title": "Ligar",
+      //  "provider": "webview",
+       // "arguments": [
+       //   "https://app.oyanis.com/R-F_ES1.php",
+       //   "usa_new"
+       // ]
+      //}
   
     ],
     "iap": false
