@@ -8,15 +8,15 @@
         "title": "Rollos Fáciles",
         "provider": "webview",
         "arguments": [
-          "https://app.oyanis.com/R-F_ES3.php",
+          "https://app.oyanis.com/R-F_ES1.php",
           "deals"
         ]
       },
       {
-        "title": "",
-        "provider": "wordpress",
+        "title": "Ligar",
+        "provider": "webview",
         "arguments": [
-          "",
+          "https://app.oyanis.com/R-F_ES2.php",
           "deals"
         ]
       }
