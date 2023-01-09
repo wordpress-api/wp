@@ -1,3 +1,4 @@
+
 [
   {
     "title": "USA",
@@ -5,10 +6,10 @@
     "submenu": "",
     "tabs": [
       {
-        "title": "Rollos Fáciles",
-        "provider": "webview",
+        "title": "Community",
+        "provider": "wordpress",
         "arguments": [
-          "https://app.oyanis.com/R-F_ES3.php",
+          "",
           "deals"
         ]
       }
