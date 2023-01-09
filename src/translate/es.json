@@ -12,6 +12,7 @@
           "deals"
         ]
       }
+  
     ],
     "iap": false
   },
@@ -21,7 +22,7 @@
     "submenu": "",
     "tabs": [
       {
-        "title": "Top Films and series",
+        "title": "Top Films",
         "image": "",
         "provider": "wordpress",
         "arguments": [
