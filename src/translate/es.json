@@ -5,19 +5,11 @@
     "submenu": "",
     "tabs": [
       {
-        "title": "Ligar",
+        "title": "Rollos Fáciles",
         "provider": "webview",
         "arguments": [
-          "https://mejorcita.es/go/SolterosConNivel",
+          "https://mejorcita.es/FuegoDeVida",
           "deals"
-        ]
-      },
-      {
-        "title": "Solteros cerca de ti",
-        "provider": "webview",
-        "arguments": [
-          "https://mejorcita.es/go/be2",
-          "usa_new"
         ]
       }
   
