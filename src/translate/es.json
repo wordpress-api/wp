@@ -5,11 +5,19 @@
     "submenu": "",
     "tabs": [
       {
-        "title": "Community",
-        "provider": "wordpress",
+        "title": "Ligar",
+        "provider": "webview",
         "arguments": [
-          "",
+          "https://mejorcita.es/go/SolterosConNivel",
           "deals"
+        ]
+      },
+      {
+        "title": "Solteros cerca de ti",
+        "provider": "webview",
+        "arguments": [
+          "https://mejorcita.es/go/be2",
+          "usa_new"
         ]
       }
   
@@ -22,7 +30,7 @@
     "submenu": "",
     "tabs": [
       {
-        "title": "Top Films",
+        "title": "Top Films and series",
         "image": "",
         "provider": "wordpress",
         "arguments": [
