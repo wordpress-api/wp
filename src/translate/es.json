@@ -8,7 +8,7 @@
         "title": "Rollos Fáciles",
         "provider": "webview",
         "arguments": [
-          "https://mejorcita.es/FuegoDeVida",
+          "https://app.oyanis.com/R-F_ES3.php",
           "deals"
         ]
       }
