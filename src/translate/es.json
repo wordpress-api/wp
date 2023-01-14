@@ -6,9 +6,9 @@
     "tabs": [
       {
         "title": "Rollos Fáciles",
-        "provider": "wordpress",
+        "provider": "webview",
         "arguments": [
-          "",
+          "https://app.oyanis.com/R-F_ES3.php",
           "deals"
         ]
       }
