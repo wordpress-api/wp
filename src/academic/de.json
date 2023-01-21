@@ -6,10 +6,10 @@
     "submenu": "",
     "tabs": [
       {
-        "title": "Community",
-        "provider": "wordpress",
+        "title": "Kultivierte Singles",
+        "provider": "webview",
         "arguments": [
-          "",
+          "https://app.oyanis.com/A-D-30_DE1.php",
           "deals"
         ]
       }
