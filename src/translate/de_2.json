@@ -6,10 +6,10 @@
     "submenu": "",
     "tabs": [
       {
-        "title": "Community",
-        "provider": "wordpress",
+        "title": "Spontan Treffen",
+        "provider": "webview",
         "arguments": [
-          "",
+          "https://app.oyanis.com/S-T_DE1.php",
           "deals"
         ]
       }
